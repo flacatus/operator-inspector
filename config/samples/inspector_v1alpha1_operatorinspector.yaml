@@ -1,0 +1,7 @@
+apiVersion: inspector.operator-inspector.com/v1alpha1
+kind: OperatorInspector
+metadata:
+  name: operatorinspector-sample
+spec:
+  # Add fields here
+  foo: bar
